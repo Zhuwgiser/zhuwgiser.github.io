@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh_CN"
-title                    : "Zhu Wei / Male"
+title                    : "Zhu Wei"
 title_separator          : "-"
 name                     : &name "Zhu Wei"
 description              : &description "Zhuwgiser is a PhD student at the School of Resource and Environmental Sciences, Wuhan University. His research interests concentrate on complexity modelling of urban data. He is working on the Integration of BIM and CIM now."
@@ -85,10 +85,9 @@ author:
   bio              : "Geographic information Science"
   location         : "Shenzhen"
   employer         :
-  ReasearchGate    : "https://www.researchgate.net/profile/Wei-Zhu-81"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhuwgiser@foxmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Wei-Zhu-81"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +102,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

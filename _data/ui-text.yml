@@ -47,7 +47,10 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-en: &DEFAULT_ZH
+
+# Chinese
+# --------------
+zh: &DEFAULT_ZH
 page                       : "页面"
   pagination_previous        : "上一页"
   pagination_next            : "下一页"
